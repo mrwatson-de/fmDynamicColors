@@ -15,7 +15,7 @@ MrWatson
 
 [![mrwatson.de][mrwatson.de logo]][mrwatson.de]
 
-[fmDynamicColors home]:https://www.fmworkmate.com/fmDynamicColors
+[fmDynamicColors home]:https://www.fmworkmate.com/fmdynamiccolors
 [fmDynamicColors repo]:https://github.com/mrwatson-de/fmDynamicColors
 [fmDynamicColors logo]:fmDynamicColors2_sm.png
 [mrwatson.de logo]:www.mrwatson.de_neon_256.png
