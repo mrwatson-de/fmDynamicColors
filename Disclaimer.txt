@@ -1,8 +1,8 @@
-myMateJSON-Disclaimer
-=====================
+fmDynamicColors-Disclaimer
+==========================
 
 This is the disclaimer from MrWatson, russell@mrwatson.de (THE COPYRIGHT OWNER)
-for myMateJSON (THE SOFTWARE PRODUCT):
+for fmDynamicColors (THE SOFTWARE PRODUCT):
 
 This SOFTWARE PRODUCT is provided by THE COPYRIGHT OWNER "as is" and "with all
 faults." THE COPYRIGHT OWNER makes no representations or warranties of any
